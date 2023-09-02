@@ -12,7 +12,6 @@
     "mysql": "^2.13.0",
     "nconf": "^0.8.4",
     "simple-node-logger": "0.93.27",
-    "socket.io": "^1.7.3",
     "socketio": "^1.0.0"
   },
   "devDependencies": {},
